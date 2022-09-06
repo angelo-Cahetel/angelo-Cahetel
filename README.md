@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelo-Cahetel
-- 🌱 Atualmente estou aprendendo  Python
-- 💞️ Estou procurando colaborar em start-up 
+- 🌱 Atualmente estou aprendendo  HTML e CSS React e JS
+- 💞️ Estou a procura do meu primeiro emprego como desenvolvedor front-end junior  
 - 📫 Como chegar até mim e-mail: angelo030825@gmail.com
 contato:  (51)992136076
 
