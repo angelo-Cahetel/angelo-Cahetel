@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @angelo-Cahetel
 - 💻 Studying: React
 - 🔎 I'm looking for my first job as a front end developer  
-- 📫 Como chegar até mim: 
+- 📫 contact me: 
 -     e-mail: angelo030825@gmail.com
-      contato:  (51)992136076
+      phone:  (51)992136076
       Linkedin: https://www.linkedin.com/in/%C3%A2ngelo-mendes-de-souza/
 
 <!---
