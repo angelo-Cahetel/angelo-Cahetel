@@ -2,11 +2,10 @@ Hi, I’m @angelo-Cahetel. I'm a student of systems analysis and development. I'
 
 I'm currently creating a project (super super secret!!) to enhance my portfolio using flutter. 
 
-You can see a bit more of my work by visiting my portfolio at this link: https://angeloportifolio.com/
+You can see a bit more of my work by visiting my portfolio: https://angeloportifolio.com/
    
    GET IN TOUCH: 
       e-mail: angelo030825@gmail.com
-      phone:  (51)992136076
       Linkedin: https://www.linkedin.com/in/%C3%A2ngelo-mendes-de-souza/
       
 ![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-Cahetel&show_icons=true&theme=dark)
