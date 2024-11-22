@@ -1,6 +1,6 @@
-Hi, I’m @angelo-Cahetel. I'm a student of systems analysis and development. I'm currently working as a freelance web developer.
+Hi, I’m @angelo-Cahetel. I'm a student of systems analysis and development. I'm currently working as a Web Developer.
 
-I'm currently creating a project (super super secret!!) to enhance my portfolio using flutter. 
+Currently, I'm specializing in SwiftUI
 
 You can see a bit more of my work by visiting my portfolio: https://angeloportifolio.com/
    
