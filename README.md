@@ -10,8 +10,6 @@ You can see a bit more of my work by visiting my portfolio: https://angeloportif
       
 ![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-Cahetel&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelo-Cahetel&hide=c,php)](https://github.com/angelo-Cahetel/github-readme-stats)
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 <!---
