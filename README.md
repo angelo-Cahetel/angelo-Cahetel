@@ -3,8 +3,8 @@ Hi, I’m @angelo-Cahetel. I'm a student of systems analysis and development. I'
 Currently, I'm specializing in SwiftUI
    
    GET IN TOUCH: 
-      e-mail: angelo030825@gmail.com
       Linkedin: https://www.linkedin.com/in/angelocahetel/
+      e-mail: angelo030825@gmail.com
       
 ![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelo-Cahetel&show_icons=true&theme=dark)
 
