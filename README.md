@@ -2,21 +2,12 @@ Hi, I’m @angelo-Cahetel. I'm a student of systems analysis and development. I'
 
 Currently, I'm specializing in SwiftUI
    
-   GET IN TOUCH: 
-      Linkedin: https://www.linkedin.com/in/angelocahetel/ 
-      e-mail: angelo030825@gmail.com
+   ### GET IN TOUCH: 
+ - Linkedin: https://www.linkedin.com/in/angelocahetel/ 
+- e-mail: angelo030825@gmail.com
       
-<!-- <div align=left">
+<div align=left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelo-Cahetel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=angelo-Cahetel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>  -->
-
-<div align="center" gap="20px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelo-Cahetel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=angelo-Cahetel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
@@ -34,6 +25,8 @@ Currently, I'm specializing in SwiftUI
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+
 
 <!---
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
